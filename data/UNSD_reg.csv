@@ -1,0 +1,249 @@
+M49;ISO2;ISO3;NAME;SUBREG2;SUBREG2_NAME
+12;DZ;DZA;Algeria;15;Northern Africa
+818;EG;EGY;Egypt;15;Northern Africa
+434;LY;LBY;Libya;15;Northern Africa
+504;MA;MAR;Morocco;15;Northern Africa
+729;SD;SDN;Sudan;15;Northern Africa
+788;TN;TUN;Tunisia;15;Northern Africa
+732;EH;ESH;Western Sahara;15;Northern Africa
+86;IO;IOT;British Indian Ocean Territory;14;Eastern Africa
+108;BI;BDI;Burundi;14;Eastern Africa
+174;KM;COM;Comoros;14;Eastern Africa
+262;DJ;DJI;Djibouti;14;Eastern Africa
+232;ER;ERI;Eritrea;14;Eastern Africa
+231;ET;ETH;Ethiopia;14;Eastern Africa
+260;TF;ATF;French Southern Territories;14;Eastern Africa
+404;KE;KEN;Kenya;14;Eastern Africa
+450;MG;MDG;Madagascar;14;Eastern Africa
+454;MW;MWI;Malawi;14;Eastern Africa
+480;MU;MUS;Mauritius;14;Eastern Africa
+175;YT;MYT;Mayotte;14;Eastern Africa
+508;MZ;MOZ;Mozambique;14;Eastern Africa
+638;RE;REU;Réunion;14;Eastern Africa
+646;RW;RWA;Rwanda;14;Eastern Africa
+690;SC;SYC;Seychelles;14;Eastern Africa
+706;SO;SOM;Somalia;14;Eastern Africa
+728;SS;SSD;South Sudan;14;Eastern Africa
+800;UG;UGA;Uganda;14;Eastern Africa
+834;TZ;TZA;United Republic of Tanzania;14;Eastern Africa
+894;ZM;ZMB;Zambia;14;Eastern Africa
+716;ZW;ZWE;Zimbabwe;14;Eastern Africa
+24;AO;AGO;Angola;17;Middle Africa
+120;CM;CMR;Cameroon;17;Middle Africa
+140;CF;CAF;Central African Republic;17;Middle Africa
+148;TD;TCD;Chad;17;Middle Africa
+178;CG;COG;Congo;17;Middle Africa
+180;CD;COD;Democratic Republic of the Congo;17;Middle Africa
+226;GQ;GNQ;Equatorial Guinea;17;Middle Africa
+266;GA;GAB;Gabon;17;Middle Africa
+678;ST;STP;Sao Tome and Principe;17;Middle Africa
+72;BW;BWA;Botswana;18;Southern Africa
+748;SZ;SWZ;Eswatini;18;Southern Africa
+426;LS;LSO;Lesotho;18;Southern Africa
+516;NA;NAM;Namibia;18;Southern Africa
+710;ZA;ZAF;South Africa;18;Southern Africa
+204;BJ;BEN;Benin;11;Western Africa
+854;BF;BFA;Burkina Faso;11;Western Africa
+132;CV;CPV;Cabo Verde;11;Western Africa
+384;CI;CIV;Côte d’Ivoire;11;Western Africa
+270;GM;GMB;Gambia;11;Western Africa
+288;GH;GHA;Ghana;11;Western Africa
+324;GN;GIN;Guinea;11;Western Africa
+624;GW;GNB;Guinea-Bissau;11;Western Africa
+430;LR;LBR;Liberia;11;Western Africa
+466;ML;MLI;Mali;11;Western Africa
+478;MR;MRT;Mauritania;11;Western Africa
+562;NE;NER;Niger;11;Western Africa
+566;NG;NGA;Nigeria;11;Western Africa
+654;SH;SHN;Saint Helena;11;Western Africa
+686;SN;SEN;Senegal;11;Western Africa
+694;SL;SLE;Sierra Leone;11;Western Africa
+768;TG;TGO;Togo;11;Western Africa
+660;AI;AIA;Anguilla;29;Caribbean
+28;AG;ATG;Antigua and Barbuda;29;Caribbean
+533;AW;ABW;Aruba;29;Caribbean
+44;BS;BHS;Bahamas;29;Caribbean
+52;BB;BRB;Barbados;29;Caribbean
+535;BQ;BES;Bonaire, Sint Eustatius and Saba;29;Caribbean
+92;VG;VGB;British Virgin Islands;29;Caribbean
+136;KY;CYM;Cayman Islands;29;Caribbean
+192;CU;CUB;Cuba;29;Caribbean
+531;CW;CUW;Curaçao;29;Caribbean
+212;DM;DMA;Dominica;29;Caribbean
+214;DO;DOM;Dominican Republic;29;Caribbean
+308;GD;GRD;Grenada;29;Caribbean
+312;GP;GLP;Guadeloupe;29;Caribbean
+332;HT;HTI;Haiti;29;Caribbean
+388;JM;JAM;Jamaica;29;Caribbean
+474;MQ;MTQ;Martinique;29;Caribbean
+500;MS;MSR;Montserrat;29;Caribbean
+630;PR;PRI;Puerto Rico;29;Caribbean
+652;BL;BLM;Saint Barthélemy;29;Caribbean
+659;KN;KNA;Saint Kitts and Nevis;29;Caribbean
+662;LC;LCA;Saint Lucia;29;Caribbean
+663;MF;MAF;Saint Martin (French Part);29;Caribbean
+670;VC;VCT;Saint Vincent and the Grenadines;29;Caribbean
+534;SX;SXM;Sint Maarten (Dutch part);29;Caribbean
+780;TT;TTO;Trinidad and Tobago;29;Caribbean
+796;TC;TCA;Turks and Caicos Islands;29;Caribbean
+850;VI;VIR;United States Virgin Islands;29;Caribbean
+84;BZ;BLZ;Belize;13;Central America
+188;CR;CRI;Costa Rica;13;Central America
+222;SV;SLV;El Salvador;13;Central America
+320;GT;GTM;Guatemala;13;Central America
+340;HN;HND;Honduras;13;Central America
+484;MX;MEX;Mexico;13;Central America
+558;NI;NIC;Nicaragua;13;Central America
+591;PA;PAN;Panama;13;Central America
+32;AR;ARG;Argentina;5;South America
+68;BO;BOL;Bolivia (Plurinational State of);5;South America
+74;BV;BVT;Bouvet Island;5;South America
+76;BR;BRA;Brazil;5;South America
+152;CL;CHL;Chile;5;South America
+170;CO;COL;Colombia;5;South America
+218;EC;ECU;Ecuador;5;South America
+238;FK;FLK;Falkland Islands (Malvinas);5;South America
+254;GF;GUF;French Guiana;5;South America
+328;GY;GUY;Guyana;5;South America
+600;PY;PRY;Paraguay;5;South America
+604;PE;PER;Peru;5;South America
+239;GS;SGS;South Georgia and the South Sandwich Islands;5;South America
+740;SR;SUR;Suriname;5;South America
+858;UY;URY;Uruguay;5;South America
+862;VE;VEN;Venezuela (Bolivarian Republic of);5;South America
+60;BM;BMU;Bermuda;21;Northern America
+124;CA;CAN;Canada;21;Northern America
+304;GL;GRL;Greenland;21;Northern America
+666;PM;SPM;Saint Pierre and Miquelon;21;Northern America
+840;US;USA;United States of America;21;Northern America
+10;AQ;ATA;Antarctica;0;0
+398;KZ;KAZ;Kazakhstan;143;Central Asia
+417;KG;KGZ;Kyrgyzstan;143;Central Asia
+762;TJ;TJK;Tajikistan;143;Central Asia
+795;TM;TKM;Turkmenistan;143;Central Asia
+860;UZ;UZB;Uzbekistan;143;Central Asia
+156;CN;CHN;China;30;Eastern Asia
+344;HK;HKG;China, Hong Kong Special Administrative Region;30;Eastern Asia
+446;MO;MAC;China, Macao Special Administrative Region;30;Eastern Asia
+408;KP;PRK;Democratic People's Republic of Korea;30;Eastern Asia
+392;JP;JPN;Japan;30;Eastern Asia
+496;MN;MNG;Mongolia;30;Eastern Asia
+410;KR;KOR;Republic of Korea;30;Eastern Asia
+96;BN;BRN;Brunei Darussalam;35;South-eastern Asia
+116;KH;KHM;Cambodia;35;South-eastern Asia
+360;ID;IDN;Indonesia;35;South-eastern Asia
+418;LA;LAO;Lao People's Democratic Republic;35;South-eastern Asia
+458;MY;MYS;Malaysia;35;South-eastern Asia
+104;MM;MMR;Myanmar;35;South-eastern Asia
+608;PH;PHL;Philippines;35;South-eastern Asia
+702;SG;SGP;Singapore;35;South-eastern Asia
+764;TH;THA;Thailand;35;South-eastern Asia
+626;TL;TLS;Timor-Leste;35;South-eastern Asia
+704;VN;VNM;Viet Nam;35;South-eastern Asia
+4;AF;AFG;Afghanistan;34;Southern Asia
+50;BD;BGD;Bangladesh;34;Southern Asia
+64;BT;BTN;Bhutan;34;Southern Asia
+356;IN;IND;India;34;Southern Asia
+364;IR;IRN;Iran (Islamic Republic of);34;Southern Asia
+462;MV;MDV;Maldives;34;Southern Asia
+524;NP;NPL;Nepal;34;Southern Asia
+586;PK;PAK;Pakistan;34;Southern Asia
+144;LK;LKA;Sri Lanka;34;Southern Asia
+51;AM;ARM;Armenia;145;Western Asia
+31;AZ;AZE;Azerbaijan;145;Western Asia
+48;BH;BHR;Bahrain;145;Western Asia
+196;CY;CYP;Cyprus;145;Western Asia
+268;GE;GEO;Georgia;145;Western Asia
+368;IQ;IRQ;Iraq;145;Western Asia
+376;IL;ISR;Israel;145;Western Asia
+400;JO;JOR;Jordan;145;Western Asia
+414;KW;KWT;Kuwait;145;Western Asia
+422;LB;LBN;Lebanon;145;Western Asia
+512;OM;OMN;Oman;145;Western Asia
+634;QA;QAT;Qatar;145;Western Asia
+682;SA;SAU;Saudi Arabia;145;Western Asia
+275;PS;PSE;State of Palestine;145;Western Asia
+760;SY;SYR;Syrian Arab Republic;145;Western Asia
+792;TR;TUR;Türkiye;145;Western Asia
+784;AE;ARE;United Arab Emirates;145;Western Asia
+887;YE;YEM;Yemen;145;Western Asia
+112;BY;BLR;Belarus;151;Eastern Europe
+100;BG;BGR;Bulgaria;151;Eastern Europe
+203;CZ;CZE;Czechia;151;Eastern Europe
+348;HU;HUN;Hungary;151;Eastern Europe
+616;PL;POL;Poland;151;Eastern Europe
+498;MD;MDA;Republic of Moldova;151;Eastern Europe
+642;RO;ROU;Romania;151;Eastern Europe
+643;RU;RUS;Russian Federation;151;Eastern Europe
+703;SK;SVK;Slovakia;151;Eastern Europe
+804;UA;UKR;Ukraine;151;Eastern Europe
+248;AX;ALA;Åland Islands;154;Northern Europe
+208;DK;DNK;Denmark;154;Northern Europe
+233;EE;EST;Estonia;154;Northern Europe
+234;FO;FRO;Faroe Islands;154;Northern Europe
+246;FI;FIN;Finland;154;Northern Europe
+831;GG;GGY;Guernsey;154;Northern Europe
+352;IS;ISL;Iceland;154;Northern Europe
+372;IE;IRL;Ireland;154;Northern Europe
+833;IM;IMN;Isle of Man;154;Northern Europe
+832;JE;JEY;Jersey;154;Northern Europe
+428;LV;LVA;Latvia;154;Northern Europe
+440;LT;LTU;Lithuania;154;Northern Europe
+578;NO;NOR;Norway;154;Northern Europe
+744;SJ;SJM;Svalbard and Jan Mayen Islands;154;Northern Europe
+752;SE;SWE;Sweden;154;Northern Europe
+826;GB;GBR;United Kingdom of Great Britain and Northern Ireland;154;Northern Europe
+8;AL;ALB;Albania;39;Southern Europe
+20;AD;AND;Andorra;39;Southern Europe
+70;BA;BIH;Bosnia and Herzegovina;39;Southern Europe
+191;HR;HRV;Croatia;39;Southern Europe
+292;GI;GIB;Gibraltar;39;Southern Europe
+300;GR;GRC;Greece;39;Southern Europe
+336;VA;VAT;Holy See;39;Southern Europe
+380;IT;ITA;Italy;39;Southern Europe
+470;MT;MLT;Malta;39;Southern Europe
+499;ME;MNE;Montenegro;39;Southern Europe
+807;MK;MKD;North Macedonia;39;Southern Europe
+620;PT;PRT;Portugal;39;Southern Europe
+674;SM;SMR;San Marino;39;Southern Europe
+688;RS;SRB;Serbia;39;Southern Europe
+705;SI;SVN;Slovenia;39;Southern Europe
+724;ES;ESP;Spain;39;Southern Europe
+40;AT;AUT;Austria;155;Western Europe
+56;BE;BEL;Belgium;155;Western Europe
+250;FR;FRA;France;155;Western Europe
+276;DE;DEU;Germany;155;Western Europe
+438;LI;LIE;Liechtenstein;155;Western Europe
+442;LU;LUX;Luxembourg;155;Western Europe
+492;MC;MCO;Monaco;155;Western Europe
+528;NL;NLD;Netherlands (Kingdom of the);155;Western Europe
+756;CH;CHE;Switzerland;155;Western Europe
+36;AU;AUS;Australia;53;Australia and New Zealand
+162;CX;CXR;Christmas Island;53;Australia and New Zealand
+166;CC;CCK;Cocos (Keeling) Islands;53;Australia and New Zealand
+334;HM;HMD;Heard Island and McDonald Islands;53;Australia and New Zealand
+554;NZ;NZL;New Zealand;53;Australia and New Zealand
+574;NF;NFK;Norfolk Island;53;Australia and New Zealand
+242;FJ;FJI;Fiji;54;Melanesia
+540;NC;NCL;New Caledonia;54;Melanesia
+598;PG;PNG;Papua New Guinea;54;Melanesia
+90;SB;SLB;Solomon Islands;54;Melanesia
+548;VU;VUT;Vanuatu;54;Melanesia
+316;GU;GUM;Guam;57;Micronesia
+296;KI;KIR;Kiribati;57;Micronesia
+584;MH;MHL;Marshall Islands;57;Micronesia
+583;FM;FSM;Micronesia (Federated States of);57;Micronesia
+520;NR;NRU;Nauru;57;Micronesia
+580;MP;MNP;Northern Mariana Islands;57;Micronesia
+585;PW;PLW;Palau;57;Micronesia
+581;UM;UMI;United States Minor Outlying Islands;57;Micronesia
+16;AS;ASM;American Samoa;61;Polynesia
+184;CK;COK;Cook Islands;61;Polynesia
+258;PF;PYF;French Polynesia;61;Polynesia
+570;NU;NIU;Niue;61;Polynesia
+612;PN;PCN;Pitcairn;61;Polynesia
+882;WS;WSM;Samoa;61;Polynesia
+772;TK;TKL;Tokelau;61;Polynesia
+776;TO;TON;Tonga;61;Polynesia
+798;TV;TUV;Tuvalu;61;Polynesia
+876;WF;WLF;Wallis and Futuna Islands;61;Polynesia
