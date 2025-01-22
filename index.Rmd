@@ -195,6 +195,16 @@ names(world_data)<-c("iso3c","date","ARB","SRF","GDP","GPP","POP","URB")
 
 ```
 
+### Corriger un bug 
+
+Pour une raison inconnue, la banque mondiale affiche une valeur incorrecte pour la superficie du Canada !
+
+```{r}
+world_data$SRF[world_data$iso3c=="CAN"]<-9984670
+```
+
+
+
 ### Recoller avec les données pays
 
 On rajoute quelques données relatives au pays qui pourront être utiles par la suite.  
